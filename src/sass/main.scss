@@ -1,7 +1,13 @@
 // Base sets
 @use 'base/reset';
-@use 'base/base';
 @use 'base/typography';
+@use 'base/base';
 
 // layouts
 @use 'layout/header';
+
+// pages
+@use 'pages/home';
+
+// Components
+@use 'components/buttons';
